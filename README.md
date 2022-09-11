@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-[Solution](https://phoenixmputu.github.io/single-price-grid-component-solution)
+[Solution](https://phoenixmputu.github.io/single-price-grid-component/)
 
 ## My process
 
